@@ -1,0 +1,2 @@
+import Project
+Project.main()
